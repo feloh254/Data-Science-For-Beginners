@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | student understanding of a concept|CAT Marks |Excel class list | effectiveness of a teaching method|
+| Vaccination | side effects of a new vaccine|Age,gender,specific side effects of the vaccine e.g fever, drowsiness|CSV File |frequency of the occurrence|
+| Productivity |new product | production rate per hour and sales| Excel sheet | improvement needed,predict sales|
 
 ## Rubric
 
